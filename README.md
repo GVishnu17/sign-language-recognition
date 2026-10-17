@@ -29,8 +29,8 @@ This project explores two approaches to image-based gesture classification:
 
 | Model | Test Accuracy |
 |-------|---------------|
-| CNN (baseline) | *fill in after running* |
-| ViT (fine-tuned) | *fill in after running* |
+| CNN (baseline) | 95.19% |
+| ViT (fine-tuned) | 96.54% |
 
 ## 📚 What I Learned
 
